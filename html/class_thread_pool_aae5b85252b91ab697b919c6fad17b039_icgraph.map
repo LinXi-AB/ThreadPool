@@ -1,0 +1,9 @@
+<map id="ThreadPool::worker" name="ThreadPool::worker">
+<area shape="rect" id="Node000001" title="执行任务的线程" alt="" coords="312,31,446,57"/>
+<area shape="rect" id="Node000002" href="$class_thread_pool.html#af22567efc7898ae416b4d7d69b31014c" title="尝试向任务队列中加入任务" alt="" coords="111,5,256,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="296,36,256,31,256,25,297,31"/>
+<area shape="rect" id="Node000004" href="$class_thread_pool.html#a92cf02d7b3cb03c02e64f343da727600" title="将thread_count个worker线程加入线程池" alt="" coords="103,56,264,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="297,57,265,61,264,56,296,52"/>
+<area shape="rect" id="Node000003" href="$_source_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,21,55,21,55,16,96,16"/>
+</map>
